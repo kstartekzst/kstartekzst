@@ -9,6 +9,8 @@ na siedem warstw:
       a następnie opatrywane są dodatkowymi inforamcjami, między innymi nadawane są numery porządkowe, któe pozwalają na przydzielenie do włąściwej aplikcaji .
     - 3 warstwa sieci - segmenty danych są wzbogacane o nagłówki sieci zawierające adres IP źrudła i celu. W ten sposób tworzy się pakiety danych. Głównym zadaniem tej warstwy
       jest wynieramie najlepszej drogi od nadawcy do odbiorcy dla stworzonych w niej pakietów.
-    - 2 warstwa 
+    - 2 warstwa lacza danych - głównym zadaniem jest wykrywanie i korygowamie błędów na jakie narażona jest komunikacja w sieci.
+        dodatkowo zajmije się podziałem wysyłanego pakietu na ramki które posiadają inforamcję o architektórze sieci
+    - 1 warstwa fizyczna - koduje dane do postaci czystych bitów (0 i 1) i przwsyła je poprzez medium transmisyjne do odpowiednich urządzeń
 
-enskapulacja danych - przechodzenie z warstwy najwyższej na warstwe najniższą 
+enskapulacja danych - przechodzenie(zmiana) danych z warstwy najwyższej na warstwe najniższej
