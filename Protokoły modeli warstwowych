@@ -1,0 +1,8 @@
+ - DNS(Domain Neame System) - jest używany do odwzorowania nazw w internecie na adresy ip.
+ - HTTP(Hypertext Transfer Protocol) - używany do przesylania plików hipertekstowych, czyli stron WWW.
+ - HTTPS(Hypertext Transfer Protocol Secure) - szyfrowana wersja protokołu HTTP, wykorzystuje on szyfrowanie TLS.
+ - SMTP(Simple Mail Transfer Protocol) - służy do wysyłania wiadomości poczty elektronicznej wraz z załącznikami.
+ - IMAP(Internet Message Access Protocol) - używa się go do odbioru poczty elektronicznej.
+ - Telnet(telecommunication Network) - protokół do obsługi terminala zdalnego urządzenia.
+ - FTP(File Transfer Protocol) - służy do przesyłania plików międzu klientem a serwerem FTP.
+ - SSH(Secure Shell) - protokół, którego używa się do emulacji (symulowania działania) terminala sieciowego. Zapewmia szyfrowanie połączenia
