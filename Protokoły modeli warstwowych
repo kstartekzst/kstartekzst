@@ -6,3 +6,18 @@
  - Telnet(telecommunication Network) - protokół do obsługi terminala zdalnego urządzenia.
  - FTP(File Transfer Protocol) - służy do przesyłania plików międzu klientem a serwerem FTP.
  - SSH(Secure Shell) - protokół, którego używa się do emulacji (symulowania działania) terminala sieciowego. Zapewmia szyfrowanie połączenia
+
+Urządzenia niezbędne do obsługi i funkcjonowania sieci możemy podzielićna 3 grupy
+ - urządzenia transmisji w tych urządzeniach są wykorzystywane i przeznaczone do transportu sygnału biegu 
+ - urządzenia dostępu - odpowiedzialne za przygotowywanie danych do przesyłu sieci (switch przełącznik, 
+ - urządzenia wzmiacniania przesyłanych sygnałów (
+
+- definicja internetu
+- router i switch
+- co to jest adres statyczny i dynamiczny
+- co to jest protokół THCP
+- instytucje czuwające nad przyznawaniem IP
+- podstawowe narzędzia diagnostyczne sieci: -ping, tracert, ipconfig - co to adres fizyczny(adres max), jak zbudowany jest adres IP w wersji 4,
+  co to jest brama domyślna połączenia sieciowego
+- najpopularniejsze ataki sieciowe
+- (wszystkie oprócz topologii P2P)
